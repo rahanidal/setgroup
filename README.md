@@ -1,0 +1,2 @@
+# setgroup
+python seter.py
